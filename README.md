@@ -3,8 +3,8 @@ DevSecOps Pipeline Integration
 
 Intern Details
 
-Intern ID: YOUR_INTERN_ID
-Name: YOUR_FULL_NAME
+Intern ID: CITS3621
+Name: Ramya Devi R
 Duration: 4 Weeks
 
 ---
